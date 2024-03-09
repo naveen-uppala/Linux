@@ -79,3 +79,5 @@
 40) usermod -a -G groupname username  -> To add an user to the group
 
 41) top   -> To check the cpu and RAM utilization
+
+42) getent group  -> To check total number of groups in linux machine
