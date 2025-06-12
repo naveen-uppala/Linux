@@ -24,7 +24,7 @@
 
 13) sudo -> Admin priviliges
 
-14) sudo su -> To login as root user
+14) sudo su or sudo -i -> To login as root user
 
 15) sudo su - username -> To login as specific user
 
