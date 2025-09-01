@@ -1,0 +1,5 @@
+1. list ls
+2.ls -a # hidden
+cd change directory
+cd .. # cming back
+pwd present working directory
