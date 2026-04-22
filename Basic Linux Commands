@@ -58,7 +58,7 @@
 
 30) wget/curl  -> To download files from internet
 
-31) yum -> to download and install software packages and dependencies from RPM repository
+31) yum install package_name -> to download and install software packages and dependencies from RPM repository
 
 32) ls -a  -> To list all files (including hidden files) and folders in current directory
 
@@ -81,3 +81,5 @@
 41) top   -> To check the cpu and RAM utilization
 
 42) getent group  -> To check total number of groups in linux machine
+
+43) yum rm package_name -> to download and install software packages and dependencies from RPM repository
