@@ -68,7 +68,7 @@
 
 35) rpm -qa  -> To display the installed packages
 
-36) rpm -qi   -> To display installed packages along with package version and description
+36) dnf list insatlled   -> To display installed packages along with package version and description
 
 37) rpm -e  -> Erase packages
 
