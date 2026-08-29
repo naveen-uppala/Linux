@@ -82,4 +82,10 @@
 
 42) getent group  -> To check total number of groups in linux machine
 
-43) yum rm package_name -> to download and install software packages and dependencies from RPM repository
+43) yum rm package_name -> to remove/uninstall software packages and dependencies from RPM repository
+
+44) ps aux
+
+45) ps -ef
+
+46) ps -ef | grep nginx
